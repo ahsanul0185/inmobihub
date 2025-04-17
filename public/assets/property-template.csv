@@ -1,0 +1,2 @@
+title,description,price,address,city,state,zipCode,country,latitude,longitude,bedrooms,bathrooms,squareFeet,lotSize,yearBuilt,propertyType,isPremium,isActive,images
+Modern Downtown Condo,Beautiful condo with city views,450000,123 Main St,Seattle,WA,98101,USA,47.6062,-122.3321,2,2,1200,0,2018,condo,false,true,https://example.com/image1.jpg|https://example.com/image2.jpg
